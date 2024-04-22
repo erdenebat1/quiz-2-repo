@@ -1,1 +1,3 @@
-print("feature1")
+a = (1,2)
+x = sum(a)
+print(x)
